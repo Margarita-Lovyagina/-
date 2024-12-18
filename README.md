@@ -172,7 +172,8 @@ Postman</b>.</span></p>
 style='font-size:14.0pt;line-height:107%'>”</span></b><span style='font-size:
 14.0pt;line-height:107%'> в левом верхнем углу.</span></p>
 
-![1](main/1.png)
+![1](https://github.com/user-attachments/assets/3179a787-6834-4825-be72-351ffba292e5)
+
 
 <p class=MsoNormal><span style='font-size:14.0pt;line-height:107%'>Нажмите
 кнопку “<b>New </b></span><b><span lang=EN-US style='font-size:14.0pt;
@@ -361,7 +362,7 @@ color:#A31515'>&quot;_lname&quot;</span><span lang=EN-US style='font-family:
 color:#0451A5'>&quot;Doe&quot;</span></p>
 
 <p class=MsoNormal style='line-height:13.5pt;background:white'><span
-lang=EN-US style='font-family:"Courier New";color:#0451A5'>    </span><span
+lang=EN-US style='font-family:"Courier New";color:#0451A5'>    </span><span
 lang=EN-US style='font-family:"Courier New";color:#C00000'>&quot;_bdate&quot;: </span><span
 lang=EN-US style='font-family:"Courier New";color:#0451A5'>&quot;YOUR_BDATE_HERE&quot;T21:00:00Z&quot;</span></p>
 
@@ -1035,7 +1036,7 @@ lang=EN-US style='font-size:14.0pt;line-height:107%'>profile</span></b><b><span
 style='font-size:14.0pt;line-height:107%'>_</span></b><b><span lang=EN-US
 style='font-size:14.0pt;line-height:107%'>id</span></b><b><span
 style='font-size:14.0pt;line-height:107%'>” </span></b><span style='font-size:
-14.0pt;line-height:107%'>–  это ID импортированного профиля. Вы можете
+14.0pt;line-height:107%'>–  это ID импортированного профиля. Вы можете
 скопировать его значение и использовать для проверки правильности импорта.</span></p>
 
 ![10](https://github.com/user-attachments/assets/099cb011-e160-4c62-9054-d99e061f04dc)
@@ -1249,3 +1250,4 @@ style='font-family:"Courier New";color:black'>: </span><span style='font-family:
 </body>
 
 </html>
+
